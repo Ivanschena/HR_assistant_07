@@ -1,0 +1,44 @@
+### Dati Personali  
+Nome: Marco Rossi  
+Email: marco.rossi@example.it  
+Telefono: +39 011 1234567  
+Città: Torino  
+Ruolo desiderato: DevOps Engineer  
+
+### Profilo  
+DevOps Engineer con oltre cinque anni di esperienza in ambienti di produzione cloud, automatizzazione di pipeline CI/CD e gestione di infrastrutture scalabili. Ho una forte passione per l’ottimizzazione dei processi di deployment, la sicurezza delle applicazioni e l’implementazione di soluzioni di monitoraggio proattivo. Sono orientato al risultato, mi adatto rapidamente a nuove tecnologie e mi piace lavorare in team multidisciplinari per garantire continuità operativa e qualità del software.  
+
+### Esperienza  
+DevOps Engineer – XYZ Srl, Torino (marzo 2021 – presente)  
+Responsabile della progettazione e implementazione di pipeline CI/CD con GitLab CI e Argo CD, gestione di cluster Kubernetes su AWS EKS, automatizzazione del provisioning con Terraform, monitoraggio con Prometheus e Grafana e sicurezza delle infrastrutture con Vault e role‑based access control.  
+
+Senior DevOps Engineer – ABC Group, Milano (gennaio 2018 – febbraio 2021)  
+Gestione di infrastrutture ibride (on‑premise e cloud) per un portafoglio di applicazioni bancarie, sviluppo di playbook Ansible per la configurazione di server Linux, gestione di sistemi di logging con ELK stack, ottimizzazione delle performance di deployment riducendo i tempi di rollout dal 40% al 10%.  
+
+System Administrator – DEF Spa, Torino (luglio 2015 – dicembre 2017)  
+Amministrazione di reti aziendali, gestione di server Windows e Linux, implementazione di backup e disaster recovery, configurazione di firewall e sistemi di sicurezza.  
+
+### Competenze  
+- Cloud: AWS (EKS, ECS, S3, RDS), Azure (AKS, VM), GCP (GKE)  
+- Containerizzazione: Docker, Kubernetes, Helm  
+- IaC: Terraform, CloudFormation, Pulumi  
+- Config Management: Ansible, Chef, Puppet  
+- CI/CD: GitLab CI, Jenkins, Argo CD, GitHub Actions  
+- Monitoraggio & Logging: Prometheus, Grafana, Loki, ELK Stack, Datadog  
+- Sicurezza: HashiCorp Vault, Open Policy Agent, CIS Benchmarks, role‑based access control  
+- Linguaggi di scripting: Bash, Python, Go (basico)  
+- Database: PostgreSQL, MySQL, Redis, MongoDB  
+- Metodologie: Agile, Scrum, Kanban, DevOps best practices  
+
+### Istruzione  
+Laurea Magistrale in Informatica – Università di Torino (2015 – 2018)  
+Laurea Triennale in Ingegneria Informatica – Università di Torino (2012 – 2015)  
+Diploma di Liceo Scientifico – Liceo Scientifico “G. Galilei”, Torino (2007 – 2012)  
+
+### Lingue  
+Italiano: Madrelingua  
+Inglese: Fluente (C1) – certificato IELTS 7.5, TOEFL 110  
+Spagnolo: Conversazionale (B1)  
+
+### Note  
+Disponibile a trasferte e a lavorare in modalità ibrida. Interesse verso progetti di infrastrutture cloud native e automazione di sicurezza. Referenze disponibili su richiesta.

@@ -1,0 +1,37 @@
+### Dati Personali
+Nome: Marco Rossi  
+Email: marco.rossi@example.com  
+Telefono: +39 011 2345678  
+Città: Torino  
+
+### Profilo
+AI Engineer con oltre cinque anni di esperienza nello sviluppo di modelli di apprendimento automatico per applicazioni in ambito industriale. Specializzato in NLP, computer vision e sistemi di raccomandazione, con una solida base in programmazione Python, TensorFlow e PyTorch. Forte attitudine alla ricerca di soluzioni scalabili e all’ottimizzazione delle performance, con comprovata capacità di gestire progetti complessi dall’ideazione alla produzione.  
+
+### Esperienza
+2021 – presente: AI Engineer – Enel S.p.A., Torino  
+Responsabile dello sviluppo e della manutenzione di un modello di previsione della domanda energetica basato su reti neurali ricorrenti. Utilizzo di TensorFlow 2.x e Keras per la prototipazione, con successiva migrazione su un’infrastruttura Kubernetes per la produzione. Contribuito alla realizzazione di un sistema di alert in tempo reale, riducendo i falsi positivi del 30%.  
+
+2018 – 2021: Machine Learning Engineer – Sviluppo Soluzioni Digitali, Milano  
+Progettazione e implementazione di modelli di classificazione di immagini per la manutenzione predittiva di impianti industriali. Tecnologie impiegate: PyTorch, OpenCV, Docker. Partecipazione al progetto di open‑source “VisionHub”, con rilascio di due moduli di preprocessing di immagini.  
+
+### Competenze
+Programmazione: Python, R, Java  
+Framework: TensorFlow, PyTorch, Keras, Scikit‑learn  
+DevOps: Docker, Kubernetes, GitLab CI, Terraform  
+Database: PostgreSQL, MongoDB  
+Altre: NLP (spaCy, Hugging Face), Computer Vision, Time‑Series Analysis, MLOps, Agile Scrum  
+
+### Istruzione
+2015 – 2018: Laurea Magistrale in Ingegneria Informatica – Politecnico di Torino  
+Tesi: “Ottimizzazione di reti neurali per la previsione della domanda energetica in sistemi smart grid”  
+
+2011 – 2015: Laurea Triennale in Informatica – Università degli Studi di Torino  
+Tesi: “Applicazioni di machine learning nella diagnostica industriale”  
+
+### Lingue
+Italiano – Madrelingua  
+Inglese – Fluente (C1)  
+Spagnolo – Intermedio (B2)  
+
+### Note
+Disponibilità immediata. Interesse per progetti di AI applicata alla sostenibilità e alla gestione dell’energia. Referenze disponibili su richiesta.

@@ -1,0 +1,38 @@
+### Dati Personali
+Marco Rossi  
+Via Garibaldi, 12 – 70121 Bari (BA)  
+Email: marco.rossi@email.it  
+Telefono: +39 080 1234567  
+Città: Bari  
+
+### Profilo
+Professionista con oltre cinque anni di esperienza nello sviluppo di soluzioni di intelligenza artificiale, specializzato in machine learning, deep learning e data engineering. Esperto nell’implementazione di modelli predittivi per settori quali finanza, retail e sanità, con un forte orientamento all’ottimizzazione delle performance e alla scalabilità in ambienti cloud. Cerco la posizione di AI Engineer per contribuire alla realizzazione di sistemi intelligenti all’avanguardia e guidare progetti di ricerca e sviluppo all’interno di un team dinamico.  
+
+### Esperienza
+AI Engineer presso FinTech Innovate S.r.l., Bari, 2023 – presente  
+- Progettazione e deploy di modelli di rischio creditizio basati su XGBoost e LightGBM, con riduzione del tasso di falsi positivi del 12%.  
+- Automazione del pipeline di data ingestion con Apache Airflow e trasformazione dei dati tramite Pandas e Spark.  
+- Collaborazione con il team di data science per l’implementazione di feature engineering avanzato e la gestione di experiment tracking in MLflow.  
+
+Machine Learning Engineer presso Retail Solutions S.p.A., Bari, 2020 – 2023  
+- Sviluppo di modelli di raccomandazione personalizzata con TensorFlow e Keras, ottenendo un incremento delle vendite del 18%.  
+- Integrazione di modelli NLP per l’analisi del sentiment dei clienti su social media, utilizzando spaCy e Hugging Face Transformers.  
+- Creazione di container Docker per la distribuzione dei modelli su Kubernetes, garantendo alta disponibilità e scalabilità.  
+
+Data Analyst Junior presso Sviluppo Informatica, Bari, 2018 – 2020  
+- Analisi esplorativa dei dataset di vendita, identificando trend stagionali e anomalie.  
+- Realizzazione di dashboard interattive con Power BI per il monitoraggio delle performance di prodotto.  
+- Supporto alla manutenzione delle pipeline di ETL con SQL e Python.  
+
+### Competenze
+Python, R, Java, SQL, NoSQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, spaCy, XGBoost, LightGBM, Apache Airflow, Docker, Kubernetes, AWS, Azure, GCP, Git, CI/CD, MLOps, Data Engineering, NLP, Computer Vision, Agile, Scrum, Leadership.  
+
+### Istruzione
+Master in Data Science, Università di Bari, 2020  
+Laurea Triennale in Ingegneria Informatica, Università degli Studi di Bari, 2018  
+
+### Lingue
+Italiano (madrelingua), Inglese (fluente), Spagnolo (intermedio).  
+
+### Note
+Disponibilità immediata per trasferimento interno. Interessa la partecipazione a programmi di formazione continua e conferenze del settore.  

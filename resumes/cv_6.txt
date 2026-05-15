@@ -1,0 +1,47 @@
+### Dati Personali
+Nome: Luca Bianchi  
+Città: Milano  
+Telefono: +39 02 1234567  
+Email: luca.bianchi@email.it  
+Ruolo desiderato: AI Engineer  
+
+### Profilo
+Professionista con oltre 5 anni di esperienza nello sviluppo di soluzioni di intelligenza artificiale e machine learning. Esperto nella progettazione, implementazione e scalabilità di modelli predittivi in ambienti di produzione. Forte orientamento ai risultati, con comprovata capacità di trasformare dati complessi in insight azionabili per guidare decisioni strategiche.
+
+### Esperienza
+Data Scientist – XYZ S.p.A. (Milano)  
+Periodo: Giugno 2021 – Presente  
+Responsabilità: Sviluppo di modelli di forecasting per la supply chain, ottimizzazione di algoritmi di clustering per segmentazione clienti, automazione di pipeline ETL con Apache Airflow.
+
+Machine Learning Engineer – ABC Tech (Milano)  
+Periodo: Marzo 2019 – Maggio 2021  
+Responsabilità: Deploy di modelli in produzione su Kubernetes, tuning di hyperparametri con Ray Tune, integrazione di servizi RESTful con FastAPI per la predizione in tempo reale.
+
+AI Research Intern – Università degli Studi di Milano (Milano)  
+Periodo: Settembre 2018 – Febbraio 2019  
+Responsabilità: Ricerca su reti neurali convoluzionali per la classificazione di immagini mediche, pubblicazione di un paper in una conferenza internazionale.
+
+### Competenze
+- Linguaggi di programmazione: Python, R, Java  
+- Framework: TensorFlow, PyTorch, Scikit-learn, Keras  
+- Strumenti di containerizzazione: Docker, Docker Compose  
+- Orchestrazione: Kubernetes, Helm  
+- Database: PostgreSQL, MongoDB, Spark  
+- Versionamento: Git, GitHub, GitLab  
+- DevOps: CI/CD con Jenkins, GitHub Actions, Terraform  
+- Metodologie: Agile Scrum, Kanban  
+
+### Istruzione
+Master in Informatica – Università degli Studi di Milano  
+Anno di conseguimento: 2018  
+
+Laurea Triennale in Informatica – Università degli Studi di Torino  
+Anno di conseguimento: 2016  
+
+### Lingue
+Italiano – Madrelingua  
+Inglese – Fluente (C1)  
+Spagnolo – Buono (B1)  
+
+### Note
+Disponibilità immediata per trasferimento o lavoro in remoto. Certificazioni: TensorFlow Developer Certificate (2020), AWS Certified Machine Learning – Specialty (2021). Referenze disponibili su richiesta.

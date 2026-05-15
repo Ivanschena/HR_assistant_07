@@ -1,0 +1,35 @@
+### Dati Personali
+Nome: Marco Bianchi  
+Email: marco.bianchi@email.it  
+Telefono: +39 081 1234567  
+Città: Napoli  
+
+### Profilo
+AI Engineer con oltre 5 anni di esperienza nello sviluppo di modelli di machine learning applicati al settore energetico e telecomunicazioni. Specializzato nella progettazione di pipeline end-to-end, nell'ottimizzazione di algoritmi complessi e nella gestione di sistemi di produzione su cloud. Capacità di tradurre requisiti di business in soluzioni AI scalabili, con forte attenzione all'affidabilità e alla sicurezza dei dati.
+
+### Esperienza
+Senior Machine Learning Engineer presso Enel Energia (Roma) – 2021‑2023  
+Responsabile della realizzazione di modelli predittivi per la manutenzione preventiva delle infrastrutture energetiche, utilizzando PyTorch e Spark. Implementazione di un sistema di monitoraggio in tempo reale che ha ridotto i costi operativi del 12 %.  
+
+AI Engineer presso Italtel (Napoli) – 2018‑2021  
+Sviluppo di algoritmi di NLP per l'analisi automatica del sentiment dei clienti nelle call center. Utilizzo di TensorFlow, Docker e Kubernetes per la distribuzione dei servizi in ambienti multi-cloud. Ottimizzazione delle pipeline di dati con Airflow, migliorando i tempi di latenza di 30 %.  
+
+Junior Data Scientist presso Università di Napoli Federico II (Napoli) – 2015‑2018  
+Analisi di grandi dataset accademici per la ricerca in bioinformatica. Progettazione di modelli di classificazione con Scikit‑learn e R, pubblicazione di due articoli in riviste peer‑reviewed.  
+
+### Competenze
+Python, R, Java, SQL, NoSQL, PyTorch, TensorFlow, Scikit‑learn, Keras, Pandas, NumPy, Spark, Hadoop, Docker, Kubernetes, Jenkins, Airflow, Git, AWS, Azure, GCP, CI/CD, NLP, Computer Vision, Time Series Analysis, Model Deployment, Data Engineering, Agile, Scrum.  
+
+### Istruzione
+Master of Science in Computer Science – Università di Napoli Federico II, 2015‑2017  
+Laurea in Informatica – Università di Napoli Federico II, 2011‑2015  
+
+### Lingue
+Italiano (madrelingua)  
+Inglese (C1)  
+Francese (B2)  
+
+### Note
+Certificato AWS Certified Machine Learning – Specialty (2022)  
+Contributo open‑source a un progetto GitHub di libreria di feature engineering (2023)  
+Partecipazione come relatore al convegno “AI in Energy” (2022) – Napoli.

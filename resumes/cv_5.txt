@@ -1,0 +1,32 @@
+### Dati Personali
+Nome: Marco Rossi  
+Email: marco.rossi@torino.it  
+Telefono: +39 011 2345678  
+Città: Torino  
+
+### Profilo
+Sviluppatore Frontend con 3 anni di esperienza nello sviluppo di interfacce web moderne e responsive. Specializzato in React e Vue.js, con conoscenza approfondita di TypeScript, CSS3 e metodologie Agile. Capacità di tradurre requisiti di design in soluzioni tecniche performanti e scalabili.  
+
+### Esperienza
+**Frontend Developer – XYZ S.r.l.**  
+2021 – Presente  
+Responsabilità: progettazione e realizzazione di componenti UI riutilizzabili, integrazione di API REST, ottimizzazione delle performance.  
+Tecnologie: React, TypeScript, Sass, Jest, Git.  
+
+**Web Designer – ABC S.c.a.r.l.**  
+2019 – 2021  
+Responsabilità: creazione di layout responsive, sviluppo di interfacce utente, collaborazione con il team di UX.  
+Tecnologie: Vue.js, JavaScript ES6, CSS3, Figma, Git.  
+
+### Competenze
+React, Vue.js, Angular, TypeScript, JavaScript ES6+, HTML5, CSS3, Sass/SCSS, Responsive Design, Git/GitHub, Agile/Scrum.  
+
+### Istruzione
+Laurea Triennale in Ingegneria Informatica – Politecnico di Torino – 2019  
+
+### Lingue
+Italiano: Madrelingua  
+Inglese: Fluente  
+
+### Note
+Disponibilità immediata. Referenze su richiesta.  

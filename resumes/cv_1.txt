@@ -1,0 +1,46 @@
+### Dati Personali
+Marco Rossi  
+Email: marco.rossi@example.com  
+Telefono: +39 06 1234567  
+Città: Roma  
+Ruolo desiderato: Backend Developer  
+
+### Profilo
+Sono un sviluppatore backend con oltre cinque anni di esperienza nello sviluppo di sistemi scalabili e microservizi. Ho una solida conoscenza di Python, Java e Go, oltre a competenze nella progettazione di API RESTful, gestione di database relazionali e non relazionali, e nella realizzazione di pipeline CI/CD. Mi piace lavorare in ambienti Agile e contribuire a progetti con forte impatto business.  
+
+### Esperienza  
+2021 – presente: Software Engineer presso TechSolutions S.r.l., Roma  
+- Progettazione e implementazione di microservizi in Go e Java, con orchestrazione tramite Kubernetes.  
+- Sviluppo di API RESTful con Spring Boot e FastAPI, ottimizzando la latenza del 30%.  
+- Automazione dei test e deployment continuo con GitLab CI e Docker.  
+
+2018 – 2021: Backend Developer presso WebInnovate, Roma  
+- Implementazione di servizi in Node.js e Express per l’ecosistema di e-commerce, gestendo oltre 10 milioni di richieste al giorno.  
+- Migrazione di database MySQL a PostgreSQL con schema evolutivo e backup automatizzati.  
+- Collaborazione con il team DevOps per la configurazione di Prometheus e Grafana per il monitoraggio delle performance.  
+
+2016 – 2018: Junior Backend Engineer presso DataFlow, Roma  
+- Sviluppo di componenti in Python per l’elaborazione di dati in batch, integrati con Apache Kafka.  
+- Realizzazione di script di automazione per la gestione delle pipeline ETL.  
+- Supporto nella manutenzione di servizi legacy in C++.  
+
+### Competenze  
+- Linguaggi di programmazione: Go, Java, Python, Node.js, JavaScript, C++.  
+- Framework e librerie: Spring Boot, FastAPI, Express, Django, Flask.  
+- Database: PostgreSQL, MySQL, MongoDB, Redis.  
+- Containerizzazione e orchestrazione: Docker, Kubernetes, Helm.  
+- CI/CD e DevOps: GitLab CI, Jenkins, Terraform, Ansible.  
+- Monitoraggio e logging: Prometheus, Grafana, ELK stack.  
+- Metodologie: Agile (Scrum), TDD, BDD.  
+
+### Istruzione  
+2013 – 2016: Laurea Triennale in Ingegneria Informatica, Università di Roma “La Sapienza”, Roma  
+2016 – 2018: Master di Istituto, Master in Data Engineering, Politecnico di Milano, Milano  
+
+### Lingue  
+Italiano: Madrelingua  
+Inglese: Fluente (C1)  
+Spagnolo: Intermedio (B1)  
+
+### Note  
+Disponibile a trasferte e a lavorare in modalità ibrida. Interessato a progetti che utilizzano tecnologie cloud native e a collaborare in team interfunzionali. Open source contributor e appassionato di sicurezza informatica.

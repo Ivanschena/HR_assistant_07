@@ -1,0 +1,55 @@
+### Dati Personali
+Nome: Marco Rossi  
+Indirizzo: Via dei Mille 23, 80123 Napoli  
+Telefono: +39 081 1234567  
+Email: marco.rossi@email.it  
+Data di nascita: 12/05/1990  
+
+### Profilo
+Sviluppatore backend con oltre 5 anni di esperienza nella progettazione e implementazione di servizi web scalabili. Esperto in Python, Go e Java, con solida conoscenza di database relazionali e NoSQL. Appassionato di architettura microservizi, API RESTful e automazione DevOps. Attualmente cerca nuove sfide come Backend Developer a Napoli, dove poter contribuire allo sviluppo di soluzioni innovative.  
+
+### Esperienza
+**Sviluppatore Backend – TechSolutions S.r.l. – Napoli**  
+Gennaio 2022 – Presente  
+- Progettazione e implementazione di un sistema di gestione dei pagamenti in Go, con integrazione di Stripe e PayPal.  
+- Ottimizzazione delle query SQL su PostgreSQL, riducendo i tempi di risposta del 35%.  
+- Introduzione di container Docker e orchestrazione con Kubernetes per il deploy continuo.  
+
+**Junior Backend Developer – SoftWeb Italia – Napoli**  
+Marzo 2019 – Dicembre 2021  
+- Sviluppo di API RESTful in Python (FastAPI) per la piattaforma di e-learning.  
+- Implementazione di caching con Redis, migliorando la scalabilità del 20%.  
+- Collaborazione con il team frontend per la definizione di endpoint e specifiche di sicurezza.  
+
+**Intern – DataAnalytics Labs – Milano**  
+Giugno 2018 – Febbraio 2019  
+- Analisi dei dati di traffico web, creazione di report in Java (Spring Boot).  
+- Configurazione di pipeline ETL con Apache Kafka e Spark.  
+- Partecipazione al refactoring di un modulo legacy in JavaScript (Node.js).  
+
+### Competenze
+- Linguaggi di programmazione: Python, Go, Java, JavaScript (Node.js)  
+- Framework e librerie: FastAPI, Spring Boot, Express, GIN  
+- Database: PostgreSQL, MySQL, MongoDB, Redis  
+- DevOps: Docker, Kubernetes, GitHub Actions, Terraform, CI/CD  
+- Strumenti di testing: pytest, JUnit, Jest, Postman  
+- Metodologie: Agile Scrum, TDD, SOLID  
+
+### Istruzione
+**Laurea Magistrale in Informatica – Università degli Studi di Napoli “Federico II”**  
+Settembre 2015 – Luglio 2017  
+- Specializzazione in sistemi distribuiti e sicurezza informatica.  
+
+**Laurea Triennale in Informatica – Università degli Studi di Napoli “Federico II”**  
+Settembre 2012 – Luglio 2015  
+- Focus su algoritmi, strutture dati e programmazione orientata agli oggetti.  
+
+### Lingue
+- Italiano (madrelingua)  
+- Inglese (fluente, certificato TOEFL iBT 105)  
+- Spagnolo (intermedio)  
+
+### Note
+- Disponibilità immediata.  
+- Referenze disponibili su richiesta.  
+- Interesse in progetti open source relativi a microservizi e sicurezza API.

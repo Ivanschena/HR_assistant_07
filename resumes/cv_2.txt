@@ -1,0 +1,56 @@
+### Dati Personali
+Nome: Marco Rossi  
+Indirizzo: Via del Forno 12, 00100 Roma  
+Telefono: +39 06 1234567  
+Email: marco.rossi@example.com  
+Città: Roma  
+
+### Profilo
+Cybersecurity Analyst con oltre 5 anni di esperienza nella protezione di infrastrutture IT, gestione di incidenti di sicurezza e realizzazione di test di penetrazione. Specializzato nell'analisi delle minacce, nella configurazione di sistemi di rilevamento intrusione e nell'implementazione di policy di sicurezza. Attualmente in cerca di una posizione di Cybersecurity Analyst a Roma.  
+
+### Esperienza
+2023 – Presente: Security Engineer – TechGuard S.r.l., Roma  
+- Analisi e mitigazione di vulnerabilità in ambienti Windows e Linux.  
+- Implementazione di sistemi WAF e gestione delle policy di firewall.  
+- Utilizzo di Python e Ansible per l'automazione delle scansioni di sicurezza.  
+- Conduzione di penetration test con Kali Linux e Metasploit.  
+
+2021 – 2023: Junior Security Analyst – NetSec Solutions, Milano  
+- Monitoraggio degli allarmi IDS/IPS e risposta a incidenti.  
+- Configurazione di SIEM (Splunk) per la correlazione degli eventi.  
+- Scrittura di script PowerShell per l'automazione di task di sicurezza.  
+- Analisi forense digitale di dispositivi mobili.  
+
+2019 – 2021: IT Security Specialist – Finanza S.p.A., Roma  
+- Valutazione della sicurezza dei sistemi bancari e delle reti aziendali.  
+- Implementazione di MFA e crittografia end‑to‑end per le transazioni online.  
+- Creazione di report di compliance ISO/IEC 27001.  
+- Uso di OpenVAS e Nessus per la scansione di vulnerabilità.  
+
+2017 – 2019: Tecnico di Supporto – Enel IT, Roma  
+- Manutenzione di infrastrutture di rete e server.  
+- Implementazione di configurazioni di sicurezza su Cisco e Juniper.  
+- Monitoraggio delle prestazioni di rete con Nagios.  
+
+### Competenze
+- Linguaggi di scripting: Python, PowerShell, Bash  
+- Strumenti di penetration testing: Kali Linux, Metasploit, Burp Suite  
+- Sistema di gestione delle vulnerabilità: Nessus, OpenVAS  
+- SIEM e log management: Splunk, ELK Stack  
+- Sicurezza di rete: Cisco ASA, Palo Alto, Fortinet  
+- Crittografia e gestione chiavi: OpenSSL, GPG  
+- Controllo accessi: LDAP, RADIUS, MFA  
+- Analisi forense: Autopsy, Volatility  
+- Conoscenza di standard: ISO/IEC 27001, NIST CSF  
+
+### Istruzione
+2016 – 2019: Laurea Triennale in Ingegneria Informatica – Università degli Studi di Roma "La Sapienza"  
+2019 – 2020: Master in Cybersecurity – Politecnico di Milano  
+2015 – 2017: Diploma di Liceo Scientifico – Liceo Scientifico "Galileo Galilei", Roma  
+
+### Lingue
+Italiano – Madrelingua  
+Inglese – Fluente (C1)  
+Francesco – Base (A2)  
+
+### Note

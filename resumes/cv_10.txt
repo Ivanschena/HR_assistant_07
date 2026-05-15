@@ -1,0 +1,51 @@
+### Dati Personali
+Nome: Matteo Ricci  
+Indirizzo: Via Toledo, 45 – 80121 Napoli  
+Telefono: +39 081 1234567  
+Email: matteo.ricci@example.com  
+Città: Napoli  
+Ruolo desiderato: Data Analyst Junior  
+
+### Profilo
+Sono un giovane professionista con una laurea in Statistica e una forte passione per l'analisi dei dati. Ho maturato esperienza pratica nell'elaborazione di dataset complessi, nella creazione di dashboard e nella modellazione predittiva. Cerco un'opportunità come Data Analyst Junior per contribuire al successo di un team dinamico e crescere professionalmente.  
+
+### Esperienza
+2023 – 2024 – Analista Dati Junior (Stage) – Enel Energia, Napoli  
+Analisi e pulizia dei dati di consumo energetico con Python e pandas.  
+Creazione di report settimanali in Power BI per il dipartimento vendite.  
+Supporto alla progettazione di modelli di previsione del consumo con Prophet.  
+
+2022 – 2023 – Data Analyst Intern – Banca Monte dei Paschi, Napoli  
+Raccolta e consolidamento dei dati transazionali utilizzando SQL su PostgreSQL.  
+Sviluppo di dashboard interattive in Tableau per monitorare KPI di rischio.  
+Collaborazione con il team di risk management per ottimizzare le metriche di churn.  
+
+2021 – 2022 – Analista di Business Intelligence – Startup FoodTech, Napoli  
+Analisi di trend di mercato tramite R e ggplot2.  
+Automatizzazione di processi di estrazione dati con Apache Airflow.  
+Presentazione di insights ai founder tramite presentazioni PowerPoint.  
+
+### Competenze
+Linguaggi di programmazione: Python, R, SQL  
+Strumenti di visualizzazione: Power BI, Tableau, ggplot2  
+Database: PostgreSQL, MySQL  
+Data Engineering: Apache Airflow, Pandas  
+Modelli predittivi: Prophet, scikit‑learn  
+Version control: Git  
+Lingue di programmazione: Bash, VBA  
+
+### Istruzione
+2020 – 2023 – Laurea Triennale in Statistica – Università degli Studi di Napoli Federico II  
+Tesi: “Analisi delle serie temporali per la previsione della domanda energetica”  
+Voto finale: 110/110  
+
+2017 – 2020 – Diploma di Perito Informatico – Liceo Scientifico “G. Marconi”, Napoli  
+Voto finale: 98/100  
+
+### Lingue
+Italiano: Madrelingua  
+Inglese: Livello B2 (IELTS 6.5)  
+Spagnolo: Livello A2  
+
+### Note
+Disponibilità immediata. Flessibilità oraria e disponibilità a trasferte per progetti interni. Interessato a opportunità di crescita in ambito Data Analytics e Business Intelligence.

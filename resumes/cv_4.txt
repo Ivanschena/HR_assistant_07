@@ -1,0 +1,29 @@
+### Dati Personali
+Marco Rossi  
+Bari, Italia  
+Telefono: +39 080 123 4567  
+Email: marco.rossi@example.com  
+
+### Profilo
+Sviluppatore Frontend con oltre cinque anni di esperienza nella progettazione e implementazione di interfacce utente moderne. Forte competenza nell’utilizzo di framework JavaScript e nello sviluppo di componenti riutilizzabili. Attento ai dettagli, orientato alla performance e sempre aggiornato sulle ultime tendenze di design e tecnologia. Desidero contribuire al team come Frontend Developer, portando soluzioni innovative e code‑quality elevata.  
+
+### Esperienza
+2022‑2025: Senior Frontend Developer presso TechSolutions S.r.l. in cui ho guidato lo sviluppo di una piattaforma SPA con React e TypeScript, implementando state management con Redux e stile con Tailwind CSS, migliorando la velocità di caricamento del 35 %.  
+2019‑2022: Frontend Developer a WebInnovations S.r.l. dove ho creato siti e-commerce complessi con Angular 10, RxJS e SCSS, ottimizzando la compatibilità cross‑browser e riducendo il tempo di build del 20 %.  
+2017‑2019: Junior Developer a StartUp X, responsabile di progetti in Vue 2, Vuex e JavaScript ES6 per app web interattive, contribuendo a un incremento del traffico del 50 % grazie a UI più intuitive.  
+
+### Competenze
+React, Angular, Vue, JavaScript ES6, TypeScript, HTML5, CSS3, SASS, LESS, Tailwind CSS, Bootstrap, Git, CI/CD, Webpack, Vite, Storybook, unit testing con Jest, test end‑to‑end con Cypress, metodologie Agile, refactoring di codice legacy, ottimizzazione delle performance web.  
+
+### Istruzione
+Università degli Studi di Bari  
+Laurea Triennale in Ingegneria Informatica, 2013‑2016  
+Certificazione Frontend Master, Coursera, 2018  
+
+### Lingue
+Italiano (madrelingua)  
+Inglese (fluente)  
+Spagnolo (intermedio)  
+
+### Note
+Disponibilità a trasferirsi per progetto. Interesse particolare per UX e design system. Attivo nella community locale di sviluppatori, con contributi a progetti open source e organizzazione di meetup.
